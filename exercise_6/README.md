@@ -41,6 +41,7 @@
 ![screenshot_1](https://github.com/vinayak-gaikwad/Sahaj_Gurukul_Exercises/blob/main/exercise_6/screenshots/ques_3_2.png)
 ![screenshot_1](https://github.com/vinayak-gaikwad/Sahaj_Gurukul_Exercises/blob/main/exercise_6/screenshots/que_3_3.png)
 
+[Reference: awk grouping on columns](https://unix.stackexchange.com/questions/506966/grouping-data-based-on-the-second-column)
 
 ##### Question 2.4: All connection broker ids in a file sorted in descending order
 
