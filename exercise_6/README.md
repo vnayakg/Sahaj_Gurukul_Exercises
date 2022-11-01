@@ -46,7 +46,7 @@
 ##### Question 2.4: All connection broker ids in a file sorted in descending order
 
 **Soulution :**
-- command: ``` awk '{print $2}' Zookeeper_2k.log | awk -F "," '{print $2}' | sort | uniq > broker_ids.txt ```
+- command: ``` awk '{print $2}' Zookeeper_2k.log | awk -F "," '{print $2}' | sort -r | uniq > broker_ids.txt ```
 - screenshot:
 ![screenshot_1](https://github.com/vinayak-gaikwad/Sahaj_Gurukul_Exercises/blob/main/exercise_6/screenshots/que_4_1.png)
 ![screenshot_1](https://github.com/vinayak-gaikwad/Sahaj_Gurukul_Exercises/blob/main/exercise_6/screenshots/ques_4_2.png)
